@@ -1,0 +1,5 @@
+name: Mr. Patterson
+description: Trending food & on point coffee. Live Music Friday and Saturday Nights
+color_profile: dark  # options: light, dark, pink
+font_profile: futuristic  # options: futuristic, rustic, cursive, formal
+accent_color: "#F8EF24"

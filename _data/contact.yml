@@ -1,0 +1,10 @@
+location:
+  address: Shop 4/21 Thompson Rd, Patterson Lakes VIC 3197
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12565.278792897503!2d145.12005779906406!3d-38.062935130931955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad60d3210ca2b31%3A0xd6eab6932dc621ca!2sMr%20Patterson!5e0!3m2!1sen!2sau!4v1657603313640!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/Mr-Patterson-1517846224988876
+  - platform: phone
+    link: tel:0387649920
